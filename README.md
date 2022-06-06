@@ -4,7 +4,7 @@ I'm Smalls. A indie software developer.
 <img src="https://github.com/smalls0098/smalls0098/blob/main/go.gif" width="100">
 
 #### About Me
-- 🌱 I’m currently learning Go、Rust、Python、kotlin、Swift.
+- 🌱 I’m currently learning Go、Rust、Python、Kotlin、Swift.
 - 💬 Ask me about anything.
 - 🛩️ How to reach me: [@smalls0098](https://t.me/smalls0098).
 
