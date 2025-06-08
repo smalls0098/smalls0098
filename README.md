@@ -19,4 +19,4 @@ I'm smalls.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=smalls0098&show_icons=true&count_private=true)](https://github.com/smalls0098?tab=repositories)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smalls0098&layout=compact&show_icons=true&count_private=true)](https://github.com/smalls0098?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smalls0098&layout=compact&show_icons=true&count_private=true&hide=php,css,html)](https://github.com/smalls0098?tab=repositories)
